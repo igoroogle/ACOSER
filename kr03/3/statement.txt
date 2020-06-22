@@ -1,0 +1,44 @@
+b4f6dc80f37";
+  var NEW_SRV_ACTION_JSON_USER_STATE=175;
+  var NEW_SRV_ACTION_VIEW_PROBLEM_SUMMARY=137;
+  var self_url="https://caos.ejudge.ru/ej/client";
+  var script_name="/ej/client";
+  var jsonState = { "h": 22, "m": 27, "s": 56, "d": 21, "o": 6, "y": 2020 };
+  var updateFailedMessage = "STATUS UPDATE FAILED!";
+  var testingInProgressMessage = "TESTING IN PROGRESS...";
+  var testingCompleted = "TESTING COMPLETED";
+  var waitingTooLong = "REFRESH PAGE MANUALLY!";
+
+
+
+Глушков Игорь [ВШЭ, ФКН, 2 курс, 183-2, 2019]: Submit a solution
+
+Глушков Игорь [ВШЭ, ФКН, 2 курс, 183-2, 2019]: Submit a solution
+
+
+SettingsRegistration
+InfoSummarySubmissionsUser standingsSubmit clarClars
+Logout [bpmi18041]
+
+
+
+
+
+
+22:27:56 / RUNNING/ [ REFRESH ]
+
+
+
+Problem kr03-3-КР 3-3
+
+Open date:2020/02/07 10:30:00
+Deadline:2020/02/07 11:55:00
+
+sm01-1sm01-2sm01-3sm01-4sm01-5sm02-1sm02-2sm02-3sm02-4sm02-5sm03-1sm03-2sm03-3sm03-4sm03-5sm04-1sm04-2sm04-3sm04-4sm04-5sm05-1sm05-2sm05-3sm05-4sm05-5sm06-1sm06-2sm06-3sm06-4sm06-5kr01-1kr01-2kr01-3kr01-4kr01-5ku01-1ku01-2ku01-3ku01-4ku01-5sm07-1sm07-2sm07-3sm07-4sm07-5sm08-1sm08-2sm08-3sm08-4sm08-5sm09-1sm09-2sm09-3sm09-4sm09-5kr02-1kr02-2kr02-3kr02-4kr02-5sm10-1sm10-2sm10-3sm10-4sm10-5ku02-1ku02-2ku02-3ku02-4ku02-5sm11-1sm11-2sm11-3sm11-4sm11-5kr03-1kr03-2kr03-3ku03-1ku03-2ku03-3ku03-4sm12-1sm12-2sm12-3sm12-4sm12-5kr04-1kr04-2kr04-3kr04-4ku04-1ku04-2ku04-3ku04-4sm13-1sm13-2sm13-3sm13-4sm13-5sm14-1sm14-2sm14-3sm14-4sm14-5sm15-1sm15-2sm15-3sm15-4sm15-5kr05-1kr05-2kr05-3kr05-4kr05-5sm16-1sm16-2sm16-3sm16-4sm16-5sm17-1sm17-2sm17-3sm17-4sm17-5sm18-1sm18-2sm18-3sm18-4sm18-5sm19-1sm19-2sm19-3sm19-4sm19-5kr06-1kr06-2kr06-3kr06-4kr06-5sm20-1sm20-2sm20-3sm20-4ku05-1ku05-2ku05-3ku05-4ku05-5ku06-1ku06-2ku06-3ku06-4ku06-5sm21-1sm21-2sm21-3sm21-4sm21-5sm22-1sm22-2sm22-3sm22-4sm23-1sm23-2sm23-3sm23-4sm23-5kr07-1kr07-2kr07-3kr07-4kr07-5sm24-1sm24-2sm24-3sm24-5sm24-6kr08-1kr08-2kr08-3kr08-4kr08-5
+ejudge 3.8.0+ (GIT 8df57609) (2020-02-25 18:06:55).
+Copyright © 2000-2020 Alexander Chernov.
+
+
+
+
+
